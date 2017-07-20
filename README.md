@@ -1,10 +1,10 @@
 # Portfolio
 <html>
   <head>
-  <link rel="stylesheet" href="stylization.css">
+  <link rel="stylesheet" href="alternatepages/stylization.css">
 <title>Keara's Portfolio - Home</title>
 <div class='painting'>
-<img src='Images/title.jpg' alt='Keara Drungells Art Portfolio' style='width:600;height:140'>
+<img src='alternatepages//Images/title.jpg' alt='Keara Drungells Art Portfolio' style='width:600;height:140'>
 </div>
 </h1>
 </head>
