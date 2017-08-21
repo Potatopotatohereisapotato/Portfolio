@@ -1,4 +1,5 @@
 <html>
+<div class='page'>
 <head>
   <title>Keara's Portfolio - A Title Has Not Been Added</title>
   <link rel="stylesheet" href="stylization.css">
@@ -19,3 +20,4 @@
 <img src='Images/Full/<!—-{inserthere}—--'>
 </div>
 </body>
+</html>
